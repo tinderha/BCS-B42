@@ -1,0 +1,5 @@
+Sandbox_RU = {
+    Sandbox_VehicleRecycling_UninstallParts = "Перед разборкой необходимо снять детали",
+    Sandbox_VehicleRecycling_UninstallParts_tooltip = "Перед разборкой необходимо снять следующие детали: капот, крышку багажника, двери, окна, сиденья.",
+    Sandbox_VehicleRecycling_ActionTimeMultiplier = "Множитель времени разборки",
+}

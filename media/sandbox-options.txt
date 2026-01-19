@@ -1,0 +1,13 @@
+VERSION = 1,
+
+option VehicleRecycling.UninstallParts
+{
+	type = boolean, default = false,
+	page = VehicleRecycling, translation = VehicleRecycling_UninstallParts,
+}
+
+option VehicleRecycling.ActionTimeMultiplier
+{
+	type = integer, min = 1, max = 100, default = 1,
+	page = VehicleRecycling, translation = VehicleRecycling_ActionTimeMultiplier,
+}

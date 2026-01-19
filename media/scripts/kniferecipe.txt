@@ -1,0 +1,137 @@
+module OpenCanWithKnife
+{
+	{
+	imports Base
+	}
+
+	recipe Open Canned Soup With Knife
+	{
+		TinnedSoup,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:TinnedSoupOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Beans With Knife
+	{
+		TinnedBeans,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:OpenBeans,
+		Time:80.0,
+		Category:Cooking,
+	}
+
+	recipe Open Dog Food With Knife
+	{
+		Dogfood,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:DogfoodOpen,
+		Time:80.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Corned Beef With Knife
+	{
+		CannedCornedBeef,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedCornedBeefOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Corn With Knife
+	{
+		CannedCorn,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedCornOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Mushroom Soup With Knife
+	{
+		CannedMushroomSoup,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedMushroomSoupOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Peas With Knife
+	{
+		CannedPeas,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedPeasOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Potato With Knife
+	{
+		CannedPotato2,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedPotatoOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Sardines With Knife
+	{
+		CannedSardines,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedSardinesOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Tomato With Knife
+	{
+		CannedTomato2,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedTomatoOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Carrots With Knife
+	{
+		CannedCarrots2,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedCarrotsOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Chili With Knife
+	{
+		CannedChili,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedChiliOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+	recipe Open Canned Bolognese With Knife
+	{
+		CannedBolognese,
+		keep KitchenKnife/ButterKnife/HuntingKnife,
+
+		Result:CannedBologneseOpen,
+		Time:10.0,
+		Category:Cooking,
+	}
+
+}

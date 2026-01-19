@@ -1,0 +1,4 @@
+Tooltip_DE = {
+    Tooltip_VehicleRecycling = "Das Zerlegen eines Fahrzeuges oder eines Anhängers mit einem Schweißbrenner bietet metallische und elektrische Materialien. <LINE> Eine höhere Metallarbeiter-Fähigkeit erhält mehr nutzbares Material.",
+    Tooltip_VehicleRecycling_Uninstall = "Ausbauen:",
+}

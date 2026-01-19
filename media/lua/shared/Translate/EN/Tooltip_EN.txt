@@ -1,0 +1,5 @@
+Tooltip_EN = {
+    Tooltip_VehicleRecycling = "Dismantling a vehicle or a trailer with a propane torch will provide metal and electrical materials. <LINE> Higher Metalworking skill will retrieve more usable salvage.",
+    Tooltip_VehicleRecycling_Uninstall = "Uninstall:",
+    Tooltip_VehicleRecycling_Passengers = "Can't dismantle a vehicle with passengers inside.",
+}

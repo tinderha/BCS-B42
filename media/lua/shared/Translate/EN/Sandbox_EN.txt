@@ -1,0 +1,6 @@
+Sandbox_EN = {
+    Sandbox_VehicleRecycling = "Vehicle Recycling",
+    Sandbox_VehicleRecycling_UninstallParts = "Parts Must Be Uninstalled Before Dismantling",
+    Sandbox_VehicleRecycling_UninstallParts_tooltip = "The following parts must be uninstalled before dismantling: hood, trunk lid, doors, windows, seats.",
+    Sandbox_VehicleRecycling_ActionTimeMultiplier = "Dismantling Time Multiplier",
+}

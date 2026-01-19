@@ -1,0 +1,25 @@
+--Translation provided by JDog_HLM @ 11/02/2019 - profile https://steamcommunity.com/profiles/76561198210300273
+UI_RU = {
+	UI_mod_eris_food_expiry_years = "год",
+	UI_mod_eris_food_expiry_months = "мес.",
+	UI_mod_eris_food_expiry_weeks = "нед.",
+	UI_mod_eris_food_expiry_days = "д.",
+	UI_mod_eris_food_expiry_hours = "ч.",
+	UI_mod_eris_food_expiry_mins = "мин.",
+	UI_mod_eris_food_expiry_secs = "сек.",
+	UI_mod_eris_food_expiry_stale_label = "Осталось: ",
+	UI_mod_eris_food_expiry_rotten_label = "Испортилось: ",
+	UI_mod_eris_food_expiry_freshbar_label = "Свежесть: ",
+	UI_mod_eris_food_expiry_label_veryfresh = "Очень свежее",
+	UI_mod_eris_food_expiry_label_fresh = "Свежее",
+	UI_mod_eris_food_expiry_label_ok = "Выглядит съедобно",
+	UI_mod_eris_food_expiry_label_rotting = "Начало портиться",
+	UI_mod_eris_food_expiry_label_almost_rotten = "Почти испортилось",
+	UI_mod_eris_food_expiry_label_completely_rotten = "Испорчено",
+	UI_mod_eris_food_expiry_label_neverperish = "Не портится",
+	UI_optionscreen_binding_TGODZ_HUD = "TGODZ HUD",
+	UI_optionscreen_binding_Show/Hide Areas = "Show/Hide Areas",
+	UI_optionscreen_binding_Show/Hide HUD = "Show/Hide HUD"
+	UI_optionscreen_binding_ERIS_MINIMAP = "eris minimap",
+	UI_optionscreen_binding_Show Map = "Show Map"
+}
