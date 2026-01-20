@@ -203,15 +203,15 @@ function ISChat:createChildren()
 	self.plistButton.backgroundColorMouseOver.a = 0.5;
 	self.plistButton:setX(self.gearButton:getX() - self.plistButton:getWidth() - 10);
 
-	self.mapButton = ISButton:new(0, 1, th, th - 2, "Minimap", self, plListPanel.onToggleMap);
-	self.mapButton.anchorRight = true;
-	self.mapButton.anchorLeft = false;
-	self.mapButton:initialise();
-	self.mapButton.borderColor.a = 0.3;
-	self.mapButton.backgroundColor.a = 0;
-	self.mapButton.backgroundColorMouseOver.a = 0.5;
-	self.mapButton:setX(self.plistButton:getX() - self.mapButton:getWidth() - 10);
-	self.mapButton:setTooltip("Toggle Minimap");
+	--self.mapButton = ISButton:new(0, 1, th, th - 2, "Minimap", self, plListPanel.onToggleMap);
+	--self.mapButton.anchorRight = true;
+	--self.mapButton.anchorLeft = false;
+	--self.mapButton:initialise();
+	--self.mapButton.borderColor.a = 0.3;
+	--self.mapButton.backgroundColor.a = 0;
+	--self.mapButton.backgroundColorMouseOver.a = 0.5;
+	--self.mapButton:setX(self.plistButton:getX() - self.mapButton:getWidth() - 10);
+	--self.mapButton:setTooltip("Toggle Minimap");
 
 	self.infoButton1 = ISButton:new(0, 1, th, th - 2, "Server Info", self, plListPanel.onToggleInfo);
 	self.infoButton1.anchorRight = true;
@@ -501,6 +501,7 @@ Events.OnScoreboardUpdate.Add(plListPanel.onScoreboardUpdate);
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------
+
 
 
 
